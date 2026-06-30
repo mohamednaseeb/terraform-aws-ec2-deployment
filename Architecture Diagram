@@ -1,0 +1,16 @@
+                Internet
+                    │
+                    ▼
+            Internet Gateway
+                    │
+                    ▼
+              Public Route Table
+                    │
+                    ▼
+             Public Subnet
+                    │
+                    ▼
+              Security Group
+                    │
+                    ▼
+               EC2 Instance
